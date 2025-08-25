@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"remoteAssets","deps":[],"uuids":["55nt1KVXdKIoFdgcDt24sq"],"paths":{"0":["test_assets/text",0,1]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.TextAsset"]}
